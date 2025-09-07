@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+ingestion/.ipynb_checkpoints
+ingestion/cred.json
+ingestion/token.json
+include/
+etc/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
